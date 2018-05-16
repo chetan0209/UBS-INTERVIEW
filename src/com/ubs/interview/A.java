@@ -1,0 +1,7 @@
+package com.ubs.interview;
+
+public class A {
+int add(int i,int j) {
+	return i+j;
+}
+}
